@@ -1,0 +1,25 @@
+h1 {
+  text-align:center;
+}
+body {
+  text-align:center;
+  font-size:22px;
+  font-family:Calibri;
+ 
+}
+hr {
+    clear: both;
+    visibility: hidden;
+}
+li {
+  display: inline;
+}
+.line {
+    height: 6px;
+    background-color: azure;
+    width: 1000px;
+    margin: 8px;
+}
+html {
+  scroll-behavior:smooth;
+}
